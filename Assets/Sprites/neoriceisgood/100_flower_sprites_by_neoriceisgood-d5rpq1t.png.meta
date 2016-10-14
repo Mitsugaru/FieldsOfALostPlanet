@@ -1,0 +1,1851 @@
+fileFormatVersion: 2
+guid: aa659c548fb7f418f9b360449aea550b
+timeCreated: 1475897075
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_flower_sprites_by_neoriceisgood-d5rpq1t_0
+    21300002: 100_flower_sprites_by_neoriceisgood-d5rpq1t_1
+    21300004: 100_flower_sprites_by_neoriceisgood-d5rpq1t_2
+    21300006: 100_flower_sprites_by_neoriceisgood-d5rpq1t_3
+    21300008: 100_flower_sprites_by_neoriceisgood-d5rpq1t_4
+    21300010: 100_flower_sprites_by_neoriceisgood-d5rpq1t_5
+    21300012: 100_flower_sprites_by_neoriceisgood-d5rpq1t_6
+    21300014: 100_flower_sprites_by_neoriceisgood-d5rpq1t_7
+    21300016: 100_flower_sprites_by_neoriceisgood-d5rpq1t_8
+    21300018: 100_flower_sprites_by_neoriceisgood-d5rpq1t_9
+    21300020: 100_flower_sprites_by_neoriceisgood-d5rpq1t_10
+    21300022: 100_flower_sprites_by_neoriceisgood-d5rpq1t_11
+    21300024: 100_flower_sprites_by_neoriceisgood-d5rpq1t_12
+    21300026: 100_flower_sprites_by_neoriceisgood-d5rpq1t_13
+    21300028: 100_flower_sprites_by_neoriceisgood-d5rpq1t_14
+    21300030: 100_flower_sprites_by_neoriceisgood-d5rpq1t_15
+    21300032: 100_flower_sprites_by_neoriceisgood-d5rpq1t_16
+    21300034: 100_flower_sprites_by_neoriceisgood-d5rpq1t_17
+    21300036: 100_flower_sprites_by_neoriceisgood-d5rpq1t_18
+    21300038: 100_flower_sprites_by_neoriceisgood-d5rpq1t_19
+    21300040: 100_flower_sprites_by_neoriceisgood-d5rpq1t_20
+    21300042: 100_flower_sprites_by_neoriceisgood-d5rpq1t_21
+    21300044: 100_flower_sprites_by_neoriceisgood-d5rpq1t_22
+    21300046: 100_flower_sprites_by_neoriceisgood-d5rpq1t_23
+    21300048: 100_flower_sprites_by_neoriceisgood-d5rpq1t_24
+    21300050: 100_flower_sprites_by_neoriceisgood-d5rpq1t_25
+    21300052: 100_flower_sprites_by_neoriceisgood-d5rpq1t_26
+    21300054: 100_flower_sprites_by_neoriceisgood-d5rpq1t_27
+    21300056: 100_flower_sprites_by_neoriceisgood-d5rpq1t_28
+    21300058: 100_flower_sprites_by_neoriceisgood-d5rpq1t_29
+    21300060: 100_flower_sprites_by_neoriceisgood-d5rpq1t_30
+    21300062: 100_flower_sprites_by_neoriceisgood-d5rpq1t_31
+    21300064: 100_flower_sprites_by_neoriceisgood-d5rpq1t_32
+    21300066: 100_flower_sprites_by_neoriceisgood-d5rpq1t_33
+    21300068: 100_flower_sprites_by_neoriceisgood-d5rpq1t_34
+    21300070: 100_flower_sprites_by_neoriceisgood-d5rpq1t_35
+    21300072: 100_flower_sprites_by_neoriceisgood-d5rpq1t_36
+    21300074: 100_flower_sprites_by_neoriceisgood-d5rpq1t_37
+    21300076: 100_flower_sprites_by_neoriceisgood-d5rpq1t_38
+    21300078: 100_flower_sprites_by_neoriceisgood-d5rpq1t_39
+    21300080: 100_flower_sprites_by_neoriceisgood-d5rpq1t_40
+    21300082: 100_flower_sprites_by_neoriceisgood-d5rpq1t_41
+    21300084: 100_flower_sprites_by_neoriceisgood-d5rpq1t_42
+    21300086: 100_flower_sprites_by_neoriceisgood-d5rpq1t_43
+    21300088: 100_flower_sprites_by_neoriceisgood-d5rpq1t_44
+    21300090: 100_flower_sprites_by_neoriceisgood-d5rpq1t_45
+    21300092: 100_flower_sprites_by_neoriceisgood-d5rpq1t_46
+    21300094: 100_flower_sprites_by_neoriceisgood-d5rpq1t_47
+    21300096: 100_flower_sprites_by_neoriceisgood-d5rpq1t_48
+    21300098: 100_flower_sprites_by_neoriceisgood-d5rpq1t_49
+    21300100: 100_flower_sprites_by_neoriceisgood-d5rpq1t_50
+    21300102: 100_flower_sprites_by_neoriceisgood-d5rpq1t_51
+    21300104: 100_flower_sprites_by_neoriceisgood-d5rpq1t_52
+    21300106: 100_flower_sprites_by_neoriceisgood-d5rpq1t_53
+    21300108: 100_flower_sprites_by_neoriceisgood-d5rpq1t_54
+    21300110: 100_flower_sprites_by_neoriceisgood-d5rpq1t_55
+    21300112: 100_flower_sprites_by_neoriceisgood-d5rpq1t_56
+    21300114: 100_flower_sprites_by_neoriceisgood-d5rpq1t_57
+    21300116: 100_flower_sprites_by_neoriceisgood-d5rpq1t_58
+    21300118: 100_flower_sprites_by_neoriceisgood-d5rpq1t_59
+    21300120: 100_flower_sprites_by_neoriceisgood-d5rpq1t_60
+    21300122: 100_flower_sprites_by_neoriceisgood-d5rpq1t_61
+    21300124: 100_flower_sprites_by_neoriceisgood-d5rpq1t_62
+    21300126: 100_flower_sprites_by_neoriceisgood-d5rpq1t_63
+    21300128: 100_flower_sprites_by_neoriceisgood-d5rpq1t_64
+    21300130: 100_flower_sprites_by_neoriceisgood-d5rpq1t_65
+    21300132: 100_flower_sprites_by_neoriceisgood-d5rpq1t_66
+    21300134: 100_flower_sprites_by_neoriceisgood-d5rpq1t_67
+    21300136: 100_flower_sprites_by_neoriceisgood-d5rpq1t_68
+    21300138: 100_flower_sprites_by_neoriceisgood-d5rpq1t_69
+    21300140: 100_flower_sprites_by_neoriceisgood-d5rpq1t_70
+    21300142: 100_flower_sprites_by_neoriceisgood-d5rpq1t_71
+    21300144: 100_flower_sprites_by_neoriceisgood-d5rpq1t_72
+    21300146: 100_flower_sprites_by_neoriceisgood-d5rpq1t_73
+    21300148: 100_flower_sprites_by_neoriceisgood-d5rpq1t_74
+    21300150: 100_flower_sprites_by_neoriceisgood-d5rpq1t_75
+    21300152: 100_flower_sprites_by_neoriceisgood-d5rpq1t_76
+    21300154: 100_flower_sprites_by_neoriceisgood-d5rpq1t_77
+    21300156: 100_flower_sprites_by_neoriceisgood-d5rpq1t_78
+    21300158: 100_flower_sprites_by_neoriceisgood-d5rpq1t_79
+    21300160: 100_flower_sprites_by_neoriceisgood-d5rpq1t_80
+    21300162: 100_flower_sprites_by_neoriceisgood-d5rpq1t_81
+    21300164: 100_flower_sprites_by_neoriceisgood-d5rpq1t_82
+    21300166: 100_flower_sprites_by_neoriceisgood-d5rpq1t_83
+    21300168: 100_flower_sprites_by_neoriceisgood-d5rpq1t_84
+    21300170: 100_flower_sprites_by_neoriceisgood-d5rpq1t_85
+    21300172: 100_flower_sprites_by_neoriceisgood-d5rpq1t_86
+    21300174: 100_flower_sprites_by_neoriceisgood-d5rpq1t_87
+    21300176: 100_flower_sprites_by_neoriceisgood-d5rpq1t_88
+    21300178: 100_flower_sprites_by_neoriceisgood-d5rpq1t_89
+    21300180: 100_flower_sprites_by_neoriceisgood-d5rpq1t_90
+    21300182: 100_flower_sprites_by_neoriceisgood-d5rpq1t_91
+    21300184: 100_flower_sprites_by_neoriceisgood-d5rpq1t_92
+    21300186: 100_flower_sprites_by_neoriceisgood-d5rpq1t_93
+    21300188: 100_flower_sprites_by_neoriceisgood-d5rpq1t_94
+    21300190: 100_flower_sprites_by_neoriceisgood-d5rpq1t_95
+    21300192: 100_flower_sprites_by_neoriceisgood-d5rpq1t_96
+    21300194: 100_flower_sprites_by_neoriceisgood-d5rpq1t_97
+    21300196: 100_flower_sprites_by_neoriceisgood-d5rpq1t_98
+    21300198: 100_flower_sprites_by_neoriceisgood-d5rpq1t_99
+    21300200: 100_flower_sprites_by_neoriceisgood-d5rpq1t_100
+    21300202: 100_flower_sprites_by_neoriceisgood-d5rpq1t_101
+    21300204: 100_flower_sprites_by_neoriceisgood-d5rpq1t_102
+    21300206: 100_flower_sprites_by_neoriceisgood-d5rpq1t_103
+    21300208: 100_flower_sprites_by_neoriceisgood-d5rpq1t_104
+    21300210: 100_flower_sprites_by_neoriceisgood-d5rpq1t_105
+    21300212: 100_flower_sprites_by_neoriceisgood-d5rpq1t_106
+    21300214: 100_flower_sprites_by_neoriceisgood-d5rpq1t_107
+    21300216: 100_flower_sprites_by_neoriceisgood-d5rpq1t_108
+    21300218: 100_flower_sprites_by_neoriceisgood-d5rpq1t_109
+    21300220: 100_flower_sprites_by_neoriceisgood-d5rpq1t_110
+    21300222: 100_flower_sprites_by_neoriceisgood-d5rpq1t_111
+    21300224: 100_flower_sprites_by_neoriceisgood-d5rpq1t_112
+    21300226: 100_flower_sprites_by_neoriceisgood-d5rpq1t_113
+    21300228: 100_flower_sprites_by_neoriceisgood-d5rpq1t_114
+    21300230: 100_flower_sprites_by_neoriceisgood-d5rpq1t_115
+    21300232: 100_flower_sprites_by_neoriceisgood-d5rpq1t_116
+    21300234: 100_flower_sprites_by_neoriceisgood-d5rpq1t_117
+    21300236: 100_flower_sprites_by_neoriceisgood-d5rpq1t_118
+    21300238: 100_flower_sprites_by_neoriceisgood-d5rpq1t_119
+    21300240: 100_flower_sprites_by_neoriceisgood-d5rpq1t_120
+    21300242: 100_flower_sprites_by_neoriceisgood-d5rpq1t_121
+    21300244: 100_flower_sprites_by_neoriceisgood-d5rpq1t_122
+    21300246: 100_flower_sprites_by_neoriceisgood-d5rpq1t_123
+    21300248: 100_flower_sprites_by_neoriceisgood-d5rpq1t_124
+    21300250: 100_flower_sprites_by_neoriceisgood-d5rpq1t_125
+    21300252: 100_flower_sprites_by_neoriceisgood-d5rpq1t_126
+    21300254: 100_flower_sprites_by_neoriceisgood-d5rpq1t_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 574
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 450
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_28
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_29
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_38
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_48
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_59
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_65
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_67
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 202
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 142
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_74
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_75
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_78
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_79
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_85
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_87
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_88
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_89
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_94
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_95
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 16
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_98
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_99
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_100
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_101
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_102
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_103
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_105
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_106
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 6
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_107
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_108
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_109
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_110
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_111
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 6
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_112
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_113
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_115
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_116
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_117
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_118
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_119
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_120
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 6
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_121
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_123
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_124
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_125
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_126
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_flower_sprites_by_neoriceisgood-d5rpq1t_127
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

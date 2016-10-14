@@ -1,0 +1,1445 @@
+fileFormatVersion: 2
+guid: 27cd98dc19f564161b98ebddb96c1f5c
+timeCreated: 1475897058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_container_sprites_by_neoriceisgood-d6oh1pr_0
+    21300002: 100_container_sprites_by_neoriceisgood-d6oh1pr_1
+    21300004: 100_container_sprites_by_neoriceisgood-d6oh1pr_2
+    21300006: 100_container_sprites_by_neoriceisgood-d6oh1pr_3
+    21300008: 100_container_sprites_by_neoriceisgood-d6oh1pr_4
+    21300010: 100_container_sprites_by_neoriceisgood-d6oh1pr_5
+    21300012: 100_container_sprites_by_neoriceisgood-d6oh1pr_6
+    21300014: 100_container_sprites_by_neoriceisgood-d6oh1pr_7
+    21300016: 100_container_sprites_by_neoriceisgood-d6oh1pr_8
+    21300018: 100_container_sprites_by_neoriceisgood-d6oh1pr_9
+    21300020: 100_container_sprites_by_neoriceisgood-d6oh1pr_10
+    21300022: 100_container_sprites_by_neoriceisgood-d6oh1pr_11
+    21300024: 100_container_sprites_by_neoriceisgood-d6oh1pr_12
+    21300026: 100_container_sprites_by_neoriceisgood-d6oh1pr_13
+    21300028: 100_container_sprites_by_neoriceisgood-d6oh1pr_14
+    21300030: 100_container_sprites_by_neoriceisgood-d6oh1pr_15
+    21300032: 100_container_sprites_by_neoriceisgood-d6oh1pr_16
+    21300034: 100_container_sprites_by_neoriceisgood-d6oh1pr_17
+    21300036: 100_container_sprites_by_neoriceisgood-d6oh1pr_18
+    21300038: 100_container_sprites_by_neoriceisgood-d6oh1pr_19
+    21300040: 100_container_sprites_by_neoriceisgood-d6oh1pr_20
+    21300042: 100_container_sprites_by_neoriceisgood-d6oh1pr_21
+    21300044: 100_container_sprites_by_neoriceisgood-d6oh1pr_22
+    21300046: 100_container_sprites_by_neoriceisgood-d6oh1pr_23
+    21300048: 100_container_sprites_by_neoriceisgood-d6oh1pr_24
+    21300050: 100_container_sprites_by_neoriceisgood-d6oh1pr_25
+    21300052: 100_container_sprites_by_neoriceisgood-d6oh1pr_26
+    21300054: 100_container_sprites_by_neoriceisgood-d6oh1pr_27
+    21300056: 100_container_sprites_by_neoriceisgood-d6oh1pr_28
+    21300058: 100_container_sprites_by_neoriceisgood-d6oh1pr_29
+    21300060: 100_container_sprites_by_neoriceisgood-d6oh1pr_30
+    21300062: 100_container_sprites_by_neoriceisgood-d6oh1pr_31
+    21300064: 100_container_sprites_by_neoriceisgood-d6oh1pr_32
+    21300066: 100_container_sprites_by_neoriceisgood-d6oh1pr_33
+    21300068: 100_container_sprites_by_neoriceisgood-d6oh1pr_34
+    21300070: 100_container_sprites_by_neoriceisgood-d6oh1pr_35
+    21300072: 100_container_sprites_by_neoriceisgood-d6oh1pr_36
+    21300074: 100_container_sprites_by_neoriceisgood-d6oh1pr_37
+    21300076: 100_container_sprites_by_neoriceisgood-d6oh1pr_38
+    21300078: 100_container_sprites_by_neoriceisgood-d6oh1pr_39
+    21300080: 100_container_sprites_by_neoriceisgood-d6oh1pr_40
+    21300082: 100_container_sprites_by_neoriceisgood-d6oh1pr_41
+    21300084: 100_container_sprites_by_neoriceisgood-d6oh1pr_42
+    21300086: 100_container_sprites_by_neoriceisgood-d6oh1pr_43
+    21300088: 100_container_sprites_by_neoriceisgood-d6oh1pr_44
+    21300090: 100_container_sprites_by_neoriceisgood-d6oh1pr_45
+    21300092: 100_container_sprites_by_neoriceisgood-d6oh1pr_46
+    21300094: 100_container_sprites_by_neoriceisgood-d6oh1pr_47
+    21300096: 100_container_sprites_by_neoriceisgood-d6oh1pr_48
+    21300098: 100_container_sprites_by_neoriceisgood-d6oh1pr_49
+    21300100: 100_container_sprites_by_neoriceisgood-d6oh1pr_50
+    21300102: 100_container_sprites_by_neoriceisgood-d6oh1pr_51
+    21300104: 100_container_sprites_by_neoriceisgood-d6oh1pr_52
+    21300106: 100_container_sprites_by_neoriceisgood-d6oh1pr_53
+    21300108: 100_container_sprites_by_neoriceisgood-d6oh1pr_54
+    21300110: 100_container_sprites_by_neoriceisgood-d6oh1pr_55
+    21300112: 100_container_sprites_by_neoriceisgood-d6oh1pr_56
+    21300114: 100_container_sprites_by_neoriceisgood-d6oh1pr_57
+    21300116: 100_container_sprites_by_neoriceisgood-d6oh1pr_58
+    21300118: 100_container_sprites_by_neoriceisgood-d6oh1pr_59
+    21300120: 100_container_sprites_by_neoriceisgood-d6oh1pr_60
+    21300122: 100_container_sprites_by_neoriceisgood-d6oh1pr_61
+    21300124: 100_container_sprites_by_neoriceisgood-d6oh1pr_62
+    21300126: 100_container_sprites_by_neoriceisgood-d6oh1pr_63
+    21300128: 100_container_sprites_by_neoriceisgood-d6oh1pr_64
+    21300130: 100_container_sprites_by_neoriceisgood-d6oh1pr_65
+    21300132: 100_container_sprites_by_neoriceisgood-d6oh1pr_66
+    21300134: 100_container_sprites_by_neoriceisgood-d6oh1pr_67
+    21300136: 100_container_sprites_by_neoriceisgood-d6oh1pr_68
+    21300138: 100_container_sprites_by_neoriceisgood-d6oh1pr_69
+    21300140: 100_container_sprites_by_neoriceisgood-d6oh1pr_70
+    21300142: 100_container_sprites_by_neoriceisgood-d6oh1pr_71
+    21300144: 100_container_sprites_by_neoriceisgood-d6oh1pr_72
+    21300146: 100_container_sprites_by_neoriceisgood-d6oh1pr_73
+    21300148: 100_container_sprites_by_neoriceisgood-d6oh1pr_74
+    21300150: 100_container_sprites_by_neoriceisgood-d6oh1pr_75
+    21300152: 100_container_sprites_by_neoriceisgood-d6oh1pr_76
+    21300154: 100_container_sprites_by_neoriceisgood-d6oh1pr_77
+    21300156: 100_container_sprites_by_neoriceisgood-d6oh1pr_78
+    21300158: 100_container_sprites_by_neoriceisgood-d6oh1pr_79
+    21300160: 100_container_sprites_by_neoriceisgood-d6oh1pr_80
+    21300162: 100_container_sprites_by_neoriceisgood-d6oh1pr_81
+    21300164: 100_container_sprites_by_neoriceisgood-d6oh1pr_82
+    21300166: 100_container_sprites_by_neoriceisgood-d6oh1pr_83
+    21300168: 100_container_sprites_by_neoriceisgood-d6oh1pr_84
+    21300170: 100_container_sprites_by_neoriceisgood-d6oh1pr_85
+    21300172: 100_container_sprites_by_neoriceisgood-d6oh1pr_86
+    21300174: 100_container_sprites_by_neoriceisgood-d6oh1pr_87
+    21300176: 100_container_sprites_by_neoriceisgood-d6oh1pr_88
+    21300178: 100_container_sprites_by_neoriceisgood-d6oh1pr_89
+    21300180: 100_container_sprites_by_neoriceisgood-d6oh1pr_90
+    21300182: 100_container_sprites_by_neoriceisgood-d6oh1pr_91
+    21300184: 100_container_sprites_by_neoriceisgood-d6oh1pr_92
+    21300186: 100_container_sprites_by_neoriceisgood-d6oh1pr_93
+    21300188: 100_container_sprites_by_neoriceisgood-d6oh1pr_94
+    21300190: 100_container_sprites_by_neoriceisgood-d6oh1pr_95
+    21300192: 100_container_sprites_by_neoriceisgood-d6oh1pr_96
+    21300194: 100_container_sprites_by_neoriceisgood-d6oh1pr_97
+    21300196: 100_container_sprites_by_neoriceisgood-d6oh1pr_98
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 598
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 532
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_28
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 466
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 400
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_46
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 334
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_57
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 268
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_64
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_67
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 202
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_72
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_75
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_76
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_77
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_78
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_79
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 136
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_85
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_86
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_87
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_88
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_89
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 70
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_92
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_96
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_97
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_container_sprites_by_neoriceisgood-d6oh1pr_98
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

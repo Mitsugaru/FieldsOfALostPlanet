@@ -1,0 +1,1809 @@
+fileFormatVersion: 2
+guid: 57c920b8b89c745a7b2a18149c199438
+timeCreated: 1475897119
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_food_sprites_by_neoriceisgood-d5rl3l4_0
+    21300002: 100_food_sprites_by_neoriceisgood-d5rl3l4_1
+    21300004: 100_food_sprites_by_neoriceisgood-d5rl3l4_2
+    21300006: 100_food_sprites_by_neoriceisgood-d5rl3l4_3
+    21300008: 100_food_sprites_by_neoriceisgood-d5rl3l4_4
+    21300010: 100_food_sprites_by_neoriceisgood-d5rl3l4_5
+    21300012: 100_food_sprites_by_neoriceisgood-d5rl3l4_6
+    21300014: 100_food_sprites_by_neoriceisgood-d5rl3l4_7
+    21300016: 100_food_sprites_by_neoriceisgood-d5rl3l4_8
+    21300018: 100_food_sprites_by_neoriceisgood-d5rl3l4_9
+    21300020: 100_food_sprites_by_neoriceisgood-d5rl3l4_10
+    21300022: 100_food_sprites_by_neoriceisgood-d5rl3l4_11
+    21300024: 100_food_sprites_by_neoriceisgood-d5rl3l4_12
+    21300026: 100_food_sprites_by_neoriceisgood-d5rl3l4_13
+    21300028: 100_food_sprites_by_neoriceisgood-d5rl3l4_14
+    21300030: 100_food_sprites_by_neoriceisgood-d5rl3l4_15
+    21300032: 100_food_sprites_by_neoriceisgood-d5rl3l4_16
+    21300034: 100_food_sprites_by_neoriceisgood-d5rl3l4_17
+    21300036: 100_food_sprites_by_neoriceisgood-d5rl3l4_18
+    21300038: 100_food_sprites_by_neoriceisgood-d5rl3l4_19
+    21300040: 100_food_sprites_by_neoriceisgood-d5rl3l4_20
+    21300042: 100_food_sprites_by_neoriceisgood-d5rl3l4_21
+    21300044: 100_food_sprites_by_neoriceisgood-d5rl3l4_22
+    21300046: 100_food_sprites_by_neoriceisgood-d5rl3l4_23
+    21300048: 100_food_sprites_by_neoriceisgood-d5rl3l4_24
+    21300050: 100_food_sprites_by_neoriceisgood-d5rl3l4_25
+    21300052: 100_food_sprites_by_neoriceisgood-d5rl3l4_26
+    21300054: 100_food_sprites_by_neoriceisgood-d5rl3l4_27
+    21300056: 100_food_sprites_by_neoriceisgood-d5rl3l4_28
+    21300058: 100_food_sprites_by_neoriceisgood-d5rl3l4_29
+    21300060: 100_food_sprites_by_neoriceisgood-d5rl3l4_30
+    21300062: 100_food_sprites_by_neoriceisgood-d5rl3l4_31
+    21300064: 100_food_sprites_by_neoriceisgood-d5rl3l4_32
+    21300066: 100_food_sprites_by_neoriceisgood-d5rl3l4_33
+    21300068: 100_food_sprites_by_neoriceisgood-d5rl3l4_34
+    21300070: 100_food_sprites_by_neoriceisgood-d5rl3l4_35
+    21300072: 100_food_sprites_by_neoriceisgood-d5rl3l4_36
+    21300074: 100_food_sprites_by_neoriceisgood-d5rl3l4_37
+    21300076: 100_food_sprites_by_neoriceisgood-d5rl3l4_38
+    21300078: 100_food_sprites_by_neoriceisgood-d5rl3l4_39
+    21300080: 100_food_sprites_by_neoriceisgood-d5rl3l4_40
+    21300082: 100_food_sprites_by_neoriceisgood-d5rl3l4_41
+    21300084: 100_food_sprites_by_neoriceisgood-d5rl3l4_42
+    21300086: 100_food_sprites_by_neoriceisgood-d5rl3l4_43
+    21300088: 100_food_sprites_by_neoriceisgood-d5rl3l4_44
+    21300090: 100_food_sprites_by_neoriceisgood-d5rl3l4_45
+    21300092: 100_food_sprites_by_neoriceisgood-d5rl3l4_46
+    21300094: 100_food_sprites_by_neoriceisgood-d5rl3l4_47
+    21300096: 100_food_sprites_by_neoriceisgood-d5rl3l4_48
+    21300098: 100_food_sprites_by_neoriceisgood-d5rl3l4_49
+    21300100: 100_food_sprites_by_neoriceisgood-d5rl3l4_50
+    21300102: 100_food_sprites_by_neoriceisgood-d5rl3l4_51
+    21300104: 100_food_sprites_by_neoriceisgood-d5rl3l4_52
+    21300106: 100_food_sprites_by_neoriceisgood-d5rl3l4_53
+    21300108: 100_food_sprites_by_neoriceisgood-d5rl3l4_54
+    21300110: 100_food_sprites_by_neoriceisgood-d5rl3l4_55
+    21300112: 100_food_sprites_by_neoriceisgood-d5rl3l4_56
+    21300114: 100_food_sprites_by_neoriceisgood-d5rl3l4_57
+    21300116: 100_food_sprites_by_neoriceisgood-d5rl3l4_58
+    21300118: 100_food_sprites_by_neoriceisgood-d5rl3l4_59
+    21300120: 100_food_sprites_by_neoriceisgood-d5rl3l4_60
+    21300122: 100_food_sprites_by_neoriceisgood-d5rl3l4_61
+    21300124: 100_food_sprites_by_neoriceisgood-d5rl3l4_62
+    21300126: 100_food_sprites_by_neoriceisgood-d5rl3l4_63
+    21300128: 100_food_sprites_by_neoriceisgood-d5rl3l4_64
+    21300130: 100_food_sprites_by_neoriceisgood-d5rl3l4_65
+    21300132: 100_food_sprites_by_neoriceisgood-d5rl3l4_66
+    21300134: 100_food_sprites_by_neoriceisgood-d5rl3l4_67
+    21300136: 100_food_sprites_by_neoriceisgood-d5rl3l4_68
+    21300138: 100_food_sprites_by_neoriceisgood-d5rl3l4_69
+    21300140: 100_food_sprites_by_neoriceisgood-d5rl3l4_70
+    21300142: 100_food_sprites_by_neoriceisgood-d5rl3l4_71
+    21300144: 100_food_sprites_by_neoriceisgood-d5rl3l4_72
+    21300146: 100_food_sprites_by_neoriceisgood-d5rl3l4_73
+    21300148: 100_food_sprites_by_neoriceisgood-d5rl3l4_74
+    21300150: 100_food_sprites_by_neoriceisgood-d5rl3l4_75
+    21300152: 100_food_sprites_by_neoriceisgood-d5rl3l4_76
+    21300154: 100_food_sprites_by_neoriceisgood-d5rl3l4_77
+    21300156: 100_food_sprites_by_neoriceisgood-d5rl3l4_78
+    21300158: 100_food_sprites_by_neoriceisgood-d5rl3l4_79
+    21300160: 100_food_sprites_by_neoriceisgood-d5rl3l4_80
+    21300162: 100_food_sprites_by_neoriceisgood-d5rl3l4_81
+    21300164: 100_food_sprites_by_neoriceisgood-d5rl3l4_82
+    21300166: 100_food_sprites_by_neoriceisgood-d5rl3l4_83
+    21300168: 100_food_sprites_by_neoriceisgood-d5rl3l4_84
+    21300170: 100_food_sprites_by_neoriceisgood-d5rl3l4_85
+    21300172: 100_food_sprites_by_neoriceisgood-d5rl3l4_86
+    21300174: 100_food_sprites_by_neoriceisgood-d5rl3l4_87
+    21300176: 100_food_sprites_by_neoriceisgood-d5rl3l4_88
+    21300178: 100_food_sprites_by_neoriceisgood-d5rl3l4_89
+    21300180: 100_food_sprites_by_neoriceisgood-d5rl3l4_90
+    21300182: 100_food_sprites_by_neoriceisgood-d5rl3l4_91
+    21300184: 100_food_sprites_by_neoriceisgood-d5rl3l4_92
+    21300186: 100_food_sprites_by_neoriceisgood-d5rl3l4_93
+    21300188: 100_food_sprites_by_neoriceisgood-d5rl3l4_94
+    21300190: 100_food_sprites_by_neoriceisgood-d5rl3l4_95
+    21300192: 100_food_sprites_by_neoriceisgood-d5rl3l4_96
+    21300194: 100_food_sprites_by_neoriceisgood-d5rl3l4_97
+    21300196: 100_food_sprites_by_neoriceisgood-d5rl3l4_98
+    21300198: 100_food_sprites_by_neoriceisgood-d5rl3l4_99
+    21300200: 100_food_sprites_by_neoriceisgood-d5rl3l4_100
+    21300202: 100_food_sprites_by_neoriceisgood-d5rl3l4_101
+    21300204: 100_food_sprites_by_neoriceisgood-d5rl3l4_102
+    21300206: 100_food_sprites_by_neoriceisgood-d5rl3l4_103
+    21300208: 100_food_sprites_by_neoriceisgood-d5rl3l4_104
+    21300210: 100_food_sprites_by_neoriceisgood-d5rl3l4_105
+    21300212: 100_food_sprites_by_neoriceisgood-d5rl3l4_106
+    21300214: 100_food_sprites_by_neoriceisgood-d5rl3l4_107
+    21300216: 100_food_sprites_by_neoriceisgood-d5rl3l4_108
+    21300218: 100_food_sprites_by_neoriceisgood-d5rl3l4_109
+    21300220: 100_food_sprites_by_neoriceisgood-d5rl3l4_110
+    21300222: 100_food_sprites_by_neoriceisgood-d5rl3l4_111
+    21300224: 100_food_sprites_by_neoriceisgood-d5rl3l4_112
+    21300226: 100_food_sprites_by_neoriceisgood-d5rl3l4_113
+    21300228: 100_food_sprites_by_neoriceisgood-d5rl3l4_114
+    21300230: 100_food_sprites_by_neoriceisgood-d5rl3l4_115
+    21300232: 100_food_sprites_by_neoriceisgood-d5rl3l4_116
+    21300234: 100_food_sprites_by_neoriceisgood-d5rl3l4_117
+    21300236: 100_food_sprites_by_neoriceisgood-d5rl3l4_118
+    21300238: 100_food_sprites_by_neoriceisgood-d5rl3l4_119
+    21300240: 100_food_sprites_by_neoriceisgood-d5rl3l4_120
+    21300242: 100_food_sprites_by_neoriceisgood-d5rl3l4_121
+    21300244: 100_food_sprites_by_neoriceisgood-d5rl3l4_122
+    21300246: 100_food_sprites_by_neoriceisgood-d5rl3l4_123
+    21300248: 100_food_sprites_by_neoriceisgood-d5rl3l4_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 512
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 512
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 450
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 452
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 388
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_48
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_55
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_56
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_58
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_65
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_66
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_68
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_73
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_77
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 140
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_78
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_84
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_86
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_87
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 78
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_88
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_93
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 18
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_95
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_96
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 16
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_97
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_98
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_100
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_101
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_102
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_103
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_105
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_106
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_107
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_111
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_112
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_114
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_115
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_117
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_118
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_119
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_120
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_122
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_123
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood-d5rl3l4_124
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

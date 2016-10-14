@@ -1,0 +1,1823 @@
+fileFormatVersion: 2
+guid: c07cdb59dd5564868907a40cf034a6e3
+timeCreated: 1475897161
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_0
+    21300002: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_1
+    21300004: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_2
+    21300006: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_3
+    21300008: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_4
+    21300010: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_5
+    21300012: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_6
+    21300014: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_7
+    21300016: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_8
+    21300018: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_9
+    21300020: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_10
+    21300022: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_11
+    21300024: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_12
+    21300026: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_13
+    21300028: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_14
+    21300030: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_15
+    21300032: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_16
+    21300034: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_17
+    21300036: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_18
+    21300038: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_19
+    21300040: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_20
+    21300042: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_21
+    21300044: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_22
+    21300046: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_23
+    21300048: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_24
+    21300050: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_25
+    21300052: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_26
+    21300054: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_27
+    21300056: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_28
+    21300058: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_29
+    21300060: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_30
+    21300062: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_31
+    21300064: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_32
+    21300066: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_33
+    21300068: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_34
+    21300070: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_35
+    21300072: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_36
+    21300074: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_37
+    21300076: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_38
+    21300078: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_39
+    21300080: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_40
+    21300082: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_41
+    21300084: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_42
+    21300086: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_43
+    21300088: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_44
+    21300090: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_45
+    21300092: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_46
+    21300094: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_47
+    21300096: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_48
+    21300098: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_49
+    21300100: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_50
+    21300102: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_51
+    21300104: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_52
+    21300106: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_53
+    21300108: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_54
+    21300110: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_55
+    21300112: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_56
+    21300114: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_57
+    21300116: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_58
+    21300118: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_59
+    21300120: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_60
+    21300122: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_61
+    21300124: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_62
+    21300126: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_63
+    21300128: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_64
+    21300130: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_65
+    21300132: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_66
+    21300134: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_67
+    21300136: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_68
+    21300138: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_69
+    21300140: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_70
+    21300142: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_71
+    21300144: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_72
+    21300146: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_73
+    21300148: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_74
+    21300150: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_75
+    21300152: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_76
+    21300154: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_77
+    21300156: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_78
+    21300158: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_79
+    21300160: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_80
+    21300162: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_81
+    21300164: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_82
+    21300166: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_83
+    21300168: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_84
+    21300170: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_85
+    21300172: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_86
+    21300174: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_87
+    21300176: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_88
+    21300178: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_89
+    21300180: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_90
+    21300182: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_91
+    21300184: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_92
+    21300186: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_93
+    21300188: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_94
+    21300190: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_95
+    21300192: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_96
+    21300194: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_97
+    21300196: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_98
+    21300198: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_99
+    21300200: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_100
+    21300202: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_101
+    21300204: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_102
+    21300206: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_103
+    21300208: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_104
+    21300210: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_105
+    21300212: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_106
+    21300214: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_107
+    21300216: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_108
+    21300218: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_109
+    21300220: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_110
+    21300222: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_111
+    21300224: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_112
+    21300226: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_113
+    21300228: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_114
+    21300230: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_115
+    21300232: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_116
+    21300234: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_117
+    21300236: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_118
+    21300238: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_119
+    21300240: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_120
+    21300242: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_121
+    21300244: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_122
+    21300246: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_123
+    21300248: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_124
+    21300250: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_125
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 574
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 572
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 512
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 512
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 510
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 450
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 450
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_29
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 448
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 388
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_35
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_37
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 388
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_39
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 386
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 326
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_49
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 324
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_59
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 262
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 200
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 202
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 202
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_66
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 200
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_67
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 202
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_69
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 200
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_73
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_76
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_77
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 140
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_79
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 138
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_83
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_85
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_86
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_87
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 78
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_88
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_89
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 76
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_93
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_95
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 14
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_96
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_97
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_98
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_99
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 14
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_100
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_101
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_102
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_104
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_105
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_106
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_107
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_109
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_111
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_113
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_114
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_115
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_117
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_118
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_119
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_120
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_122
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_124
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 100_fungi_sprites_by_neorice_by_neoriceisgood-d5rt3hv_125
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
