@@ -1,7 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
-
-public delegate void EventDelegate<T>(T e) where T : GameEvent;
+﻿public delegate void EventDelegate<T>(T e) where T : GameEvent;
 
 public interface IEventManager
 {
