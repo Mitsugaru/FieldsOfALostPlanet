@@ -22,7 +22,7 @@ GameObject:
   - 33: {fileID: 33000012386105972}
   - 64: {fileID: 64000013733015646}
   - 23: {fileID: 23000012400977168}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SpritePlane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 4000012661603220}
   - 212: {fileID: 212000012137365780}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
