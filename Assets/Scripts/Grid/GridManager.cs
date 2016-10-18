@@ -19,6 +19,7 @@ public class GridManager : View, IGridManager
     // Use this for initialization
     protected override void Start()
     {
+        base.Start();
         for (int i = 0; i < size; i++)
         {
             for (int j = 0; j < size; j++)

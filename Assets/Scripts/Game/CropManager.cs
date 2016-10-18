@@ -12,6 +12,8 @@ public class CropManager : View, ICropManager
     // Use this for initialization
     protected override void Start()
     {
+        base.Start();
+        
         EventManager.AddListener<TickElapsedEvent>(HandleTickElapsed);
     }
 

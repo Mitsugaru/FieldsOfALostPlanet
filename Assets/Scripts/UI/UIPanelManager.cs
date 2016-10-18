@@ -22,6 +22,7 @@ public class UIPanelManager : View, IUIPanelManager
     // Use this for initialization
     protected override void Start()
     {
+        base.Start();
         slider = TileInfoPanel.GetComponentInChildren<Slider>();
         EventManager.AddListener<TickElapsedEvent>(HandleTickElapsed);
     }
