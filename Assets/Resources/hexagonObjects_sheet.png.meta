@@ -1,0 +1,2187 @@
+fileFormatVersion: 2
+guid: 49662950f9789184cb23b459ce612898
+timeCreated: 1494997220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anvil.png
+    21300002: archway.png
+    21300004: banner.png
+    21300006: beigeBuilding.png
+    21300008: beigeBuilding_side.png
+    21300010: box1.png
+    21300012: box2.png
+    21300014: brickBuilding1.png
+    21300016: brickBuilding2.png
+    21300018: cactus1.png
+    21300020: cactus2.png
+    21300022: cactus3.png
+    21300024: campingTent.png
+    21300026: canFire.png
+    21300028: can_red.png
+    21300030: can_yellow.png
+    21300032: carBlue.png
+    21300034: carGreen.png
+    21300036: carRed.png
+    21300038: cargo.png
+    21300040: cargoPad.png
+    21300042: castle_large.png
+    21300044: castle_open.png
+    21300046: castle_small.png
+    21300048: church.png
+    21300050: cornerShop.png
+    21300052: crane.png
+    21300054: crystals1.png
+    21300056: crystals2.png
+    21300058: dish.png
+    21300060: dome.png
+    21300062: dumpster1.png
+    21300064: dumpster2.png
+    21300066: dumpster3.png
+    21300068: dumpster4.png
+    21300070: farm.png
+    21300072: farmland.png
+    21300074: farmland_empty.png
+    21300076: fence.png
+    21300078: fire.png
+    21300080: fountain.png
+    21300082: hangar.png
+    21300084: hay.png
+    21300086: hedge.png
+    21300088: horseTrough.png
+    21300090: house.png
+    21300092: house_small.png
+    21300094: housing.png
+    21300096: indianTent_back.png
+    21300098: indianTent_front.png
+    21300100: landingpad.png
+    21300102: lightpost.png
+    21300104: living.png
+    21300106: log.png
+    21300108: logPile.png
+    21300110: medieval_doorway.png
+    21300112: militaryOutlook.png
+    21300114: militaryTent.png
+    21300116: mill_brick.png
+    21300118: mill_factory.png
+    21300120: mill_hightop.png
+    21300122: mill_house.png
+    21300124: mill_lodge.png
+    21300126: mill_overhang.png
+    21300128: mill_redBrick.png
+    21300130: mill_way.png
+    21300132: mine.png
+    21300134: oil.png
+    21300136: oldBuilding.png
+    21300138: outhouse.png
+    21300140: oven.png
+    21300142: oven_outlet.png
+    21300144: pallet.png
+    21300146: pallet_full.png
+    21300148: petrolStation.png
+    21300150: pipe.png
+    21300152: pole.png
+    21300154: rockBrown_large.png
+    21300156: rockBrown_small.png
+    21300158: rockGrey_large.png
+    21300160: rockGrey_medium1.png
+    21300162: rockGrey_medium2.png
+    21300164: rockGrey_medium3.png
+    21300166: rockGrey_medium4.png
+    21300168: rockGrey_small1.png
+    21300170: rockGrey_small2.png
+    21300172: rockGrey_small3.png
+    21300174: rockGrey_small4.png
+    21300176: rockGrey_small5.png
+    21300178: rockGrey_small6.png
+    21300180: rockGrey_small7.png
+    21300182: rocket.png
+    21300184: ruinsCorner.png
+    21300186: ruins_brick1.png
+    21300188: ruins_brick2.png
+    21300190: saloon.png
+    21300192: scifi_corner.png
+    21300194: scifi_element1.png
+    21300196: scifi_element2.png
+    21300198: scifi_factory.png
+    21300200: scifi_hangar.png
+    21300202: scifi_hangar1.png
+    21300204: scifi_hangar2.png
+    21300206: scifi_pipe.png
+    21300208: scifi_scraper1.png
+    21300210: scifi_scraper2.png
+    21300212: scifi_scraper3.png
+    21300214: scifi_ship.png
+    21300216: scifi_tower.png
+    21300218: sheriff.png
+    21300220: shop.png
+    21300222: shops.png
+    21300224: sign.png
+    21300226: sillo2.png
+    21300228: silo1.png
+    21300230: skyscraper.png
+    21300232: skyscraper_glass.png
+    21300234: skyscraper_wide.png
+    21300236: spaceship.png
+    21300238: station.png
+    21300240: store.png
+    21300242: tank.png
+    21300244: target.png
+    21300246: tavern.png
+    21300248: tinyBuilding.png
+    21300250: tombstone1.png
+    21300252: tombstone2.png
+    21300254: tombstone3.png
+    21300256: tower.png
+    21300258: towerRuin.png
+    21300260: treeAlien_large.png
+    21300262: treeAlien_small.png
+    21300264: treePine_large.png
+    21300266: treePine_small.png
+    21300268: treeRound_large.png
+    21300270: treeRound_small.png
+    21300272: turret_base.png
+    21300274: turret_large.png
+    21300276: turret_medium.png
+    21300278: turret_small.png
+    21300280: villa.png
+    21300282: villa_large.png
+    21300284: wall.png
+    21300286: wall_corner.png
+    21300288: wall_large.png
+    21300290: wall_red.png
+    21300292: wall_small.png
+    21300294: watertower.png
+    21300296: well.png
+    21300298: windmill.png
+    21300300: windmill_base.png
+    21300302: windmill_complete.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anvil.png
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 268
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: archway.png
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: banner.png
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 440
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: beigeBuilding.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 452
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: beigeBuilding_side.png
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 303
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box1.png
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 325
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: box2.png
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: brickBuilding1.png
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 139
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: brickBuilding2.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 289
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus1.png
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 233
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus2.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 385
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus3.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 230
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: campingTent.png
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 159
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: canFire.png
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 347
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: can_red.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 450
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: can_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 420
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: carBlue.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 58
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: carGreen.png
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 269
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: carRed.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 436
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cargo.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 90
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cargoPad.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: castle_large.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: castle_open.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: castle_small.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: church.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 117
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cornerShop.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 367
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crane.png
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 108
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crystals1.png
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 121
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crystals2.png
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 470
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dish.png
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 34
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dome.png
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dumpster1.png
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dumpster2.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 372
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dumpster3.png
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dumpster4.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 34
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: farm.png
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 81
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: farmland.png
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 201
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: farmland_empty.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 234
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fence.png
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 480
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fire.png
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fountain.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 336
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hangar.png
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 260
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hay.png
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hedge.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: horseTrough.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: house.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: house_small.png
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 196
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: housing.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 438
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: indianTent_back.png
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 60
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: indianTent_front.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 32
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: landingpad.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 346
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: lightpost.png
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 81
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: living.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: log.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: logPile.png
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 232
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: medieval_doorway.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 456
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: militaryOutlook.png
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 254
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: militaryTent.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 70
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_brick.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_factory.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_hightop.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 370
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_house.png
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 202
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_lodge.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 384
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_overhang.png
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 194
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_redBrick.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 431
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mill_way.png
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 260
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mine.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 232
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: oil.png
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 12
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: oldBuilding.png
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 140
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: outhouse.png
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 482
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: oven.png
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 401
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: oven_outlet.png
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 386
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pallet.png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 222
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pallet_full.png
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: petrolStation.png
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 418
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pipe.png
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 77
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pole.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 318
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockBrown_large.png
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 424
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockBrown_small.png
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 10
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_large.png
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 252
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_medium1.png
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 461
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_medium2.png
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 203
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_medium3.png
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 386
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_medium4.png
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 132
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small1.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small2.png
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 261
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small3.png
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 29
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small4.png
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small5.png
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 350
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small6.png
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 271
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rockGrey_small7.png
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 404
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: rocket.png
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 366
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ruinsCorner.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 30
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ruins_brick1.png
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 211
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ruins_brick2.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 8
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: saloon.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 324
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_corner.png
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 277
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_element1.png
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 416
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_element2.png
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 132
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_factory.png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 428
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_hangar.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 450
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_hangar1.png
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 129
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_hangar2.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_pipe.png
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 212
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_scraper1.png
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 7
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_scraper2.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 414
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_scraper3.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 130
+        width: 62
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_ship.png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 352
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: scifi_tower.png
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 430
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheriff.png
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shop.png
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 246
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shops.png
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 350
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sign.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 345
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sillo2.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 154
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: silo1.png
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 80
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skyscraper.png
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 132
+        width: 58
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skyscraper_glass.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 20
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skyscraper_wide.png
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 31
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceship.png
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 29
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: station.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: store.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 439
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tank.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 420
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: target.png
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tavern.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 195
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tinyBuilding.png
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tombstone1.png
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 347
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tombstone2.png
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 35
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tombstone3.png
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 347
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tower.png
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 376
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: towerRuin.png
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 345
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: treeAlien_large.png
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 285
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: treeAlien_small.png
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 28
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: treePine_large.png
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 330
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: treePine_small.png
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 180
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: treeRound_large.png
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 123
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: treeRound_small.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 196
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: turret_base.png
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: turret_large.png
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 293
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: turret_medium.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 144
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: turret_small.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 86
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: villa.png
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 49
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: villa_large.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 150
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wall.png
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 315
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wall_corner.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wall_large.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wall_red.png
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 393
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wall_small.png
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 356
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: watertower.png
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 266
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: well.png
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 171
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: windmill.png
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 318
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: windmill_base.png
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 164
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: windmill_complete.png
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 318
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
