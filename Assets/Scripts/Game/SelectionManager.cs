@@ -4,31 +4,40 @@ using strange.extensions.mediation.impl;
 public class SelectionManager : View, ISelectionManager
 {
 
-    private GameObject selected;
-    public GameObject Selected
-    {
-        get
-        {
-            return selected;
-        }
-    }
+    [Inject]
+    public IEventManager EventManager { get; set; }
+
+    public GameObject Selected { get; protected set; }
 
     // Use this for initialization
     protected override void Start()
     {
         base.Start();
+        EventManager.AddListener<SelectionEvent>(HandleSelection);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.touchSupported)
+        //if (Input.touchSupported)
+        //{
+        //    HandleTouch();
+        //}
+        //else
+        //{
+        //    HandleMouseAndKeyboard();
+        //}
+    }
+
+    private void HandleSelection(SelectionEvent e)
+    {
+        if (Selected == null)
         {
-            HandleTouch();
+            Selected = e.Selected;
         }
-        else
+        else if (Selected != e.Selected)
         {
-            HandleMouseAndKeyboard();
+            Selected = e.Selected;
         }
     }
 
@@ -37,7 +46,7 @@ public class SelectionManager : View, ISelectionManager
         if (Input.GetMouseButtonDown(0))
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            selected = DetectTileTerrainHit(ray);
+            Selected = DetectTileTerrainHit(ray);
         }
     }
 
@@ -53,7 +62,7 @@ public class SelectionManager : View, ISelectionManager
             if (touch.phase == TouchPhase.Ended && touch.tapCount == 1)
             {
                 Ray ray = Camera.main.ScreenPointToRay(touch.position);
-                selected = DetectTileTerrainHit(ray);
+                Selected = DetectTileTerrainHit(ray);
             }
         }
     }

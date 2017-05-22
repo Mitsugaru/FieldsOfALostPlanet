@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 using System.Collections;
 using strange.extensions.mediation.impl;
 
@@ -10,12 +11,17 @@ public class UIPanelManager : View, IUIPanelManager
     public IEventManager EventManager { get; set; }
 
     [Inject]
-    public ISelectionManager SelectionManager { get; set; }
+    public ITileManager TileManager { get; set; }
 
     [Inject]
     public ICropManager CropManager { get; set; }
 
-	public GameObject TileInfoPanel;
+    [Inject]
+    public ISelectionManager SelectionManager { get; set; }
+
+    public GameObject TileInfoPanel;
+
+    public GameObject TerrainPanel;
 
     private Slider slider;
 
@@ -30,11 +36,19 @@ public class UIPanelManager : View, IUIPanelManager
     // Update is called once per frame
     void Update()
     {
-		TileInfoPanel.SetActive(SelectionManager.Selected != null);
+        if(SelectionManager.Selected != null)
+        {
+            //Set terrain panel info here
+            TerrainPanel.SetActive(true);
+        }
+        else
+        {
+            TerrainPanel.SetActive(false);
+        }
     }
 
     private void HandleTickElapsed(TickElapsedEvent e)
     {
-        slider.value = CropManager.GetCropInfo(null).Growth;
+        //slider.value = CropManager.GetCropInfo(null).Growth;
     }
 }
