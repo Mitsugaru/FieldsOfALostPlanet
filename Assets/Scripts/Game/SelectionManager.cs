@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using strange.extensions.mediation.impl;
+using UnityEngine.EventSystems;
 
 public class SelectionManager : View, ISelectionManager
 {
@@ -19,14 +20,14 @@ public class SelectionManager : View, ISelectionManager
     // Update is called once per frame
     void Update()
     {
-        //if (Input.touchSupported)
-        //{
-        //    HandleTouch();
-        //}
-        //else
-        //{
-        //    HandleMouseAndKeyboard();
-        //}
+        if (Input.touchSupported)
+        {
+            HandleTouch();
+        }
+        else
+        {
+            HandleMouseAndKeyboard();
+        }
     }
 
     private void HandleSelection(SelectionEvent e)
@@ -45,8 +46,7 @@ public class SelectionManager : View, ISelectionManager
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            Selected = DetectTileTerrainHit(ray);
+            DetectDeselect(Input.mousePosition);
         }
     }
 
@@ -61,9 +61,16 @@ public class SelectionManager : View, ISelectionManager
             // ------------------------------------------------
             if (touch.phase == TouchPhase.Ended && touch.tapCount == 1)
             {
-                Ray ray = Camera.main.ScreenPointToRay(touch.position);
-                Selected = DetectTileTerrainHit(ray);
+                DetectDeselect(touch.position);
             }
+        }
+    }
+
+    void DetectDeselect(Vector2 position)
+    {
+        if (!EventSystem.current.IsPointerOverGameObject())
+        {
+            Selected = null;
         }
     }
 
