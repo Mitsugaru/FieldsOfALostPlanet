@@ -15,9 +15,9 @@ public class HexagonBoard : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        sprites = Resources.LoadAll<Sprite>("hexagonAll_sheet");
-        int posX = 30;
-        int posY = 30;
+        sprites = Resources.LoadAll<Sprite>("hexagonTerrain_sheet");
+        int posX = 50;
+        int posY = 50;
         int count = 0;
         int row = 1;
         foreach (Sprite sprite in sprites)
@@ -34,20 +34,20 @@ public class HexagonBoard : MonoBehaviour
                 image.sprite = sprite;
                 image.enabled = true;
             }
-            posX += 60;
-            if (count == 15)
+            posX += 100;
+            if (count == 19)
             {
                 count = 0;
                 row++;
                 if(row % 2 == 0)
                 {
-                    posX = 60;
+                    posX = 100;
                 }
                 else
                 {
-                    posX = 30;
+                    posX = 50;
                 }
-                posY += 45;
+                posY += 74;
             }
             else
             {
