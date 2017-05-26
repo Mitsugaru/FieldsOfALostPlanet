@@ -1,8 +1,27 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[System.Serializable]
 public class CropInfo
 {
+
+    private string name;
+    public string Name
+    {
+        get
+        {
+            return name;
+        }
+    }
+
+    private Sprite sprite;
+    public Sprite Sprite
+    {
+        get
+        {
+            return sprite;
+        }
+    }
 
     private int health = 0;
     public int Health
@@ -32,24 +51,47 @@ public class CropInfo
     }
     private int maxQuality = 100;
 
+    // The following are only for reporting to Unity to visualize what data is there in the Inspector
+    public string reportName = string.Empty;
+    public Sprite reportSprite;
+    public int reportHealth = 0;
+    public int reportGrowth = 0;
+    public int reportQuality = 0;
+
+    public void SetName(string name)
+    {
+        this.name = name;
+        reportName = name;
+    }
+
+    public void SetSprite(Sprite sprite)
+    {
+        this.sprite = sprite;
+        reportSprite = sprite;
+    }
+
     public void SetHealth(int value)
     {
         health = Bound(value, 0, maxHealth);
+        reportHealth = health;
     }
 
     public void SetGrowth(int value)
     {
-		growth = Bound(value, 0, maxGrowth);
+        growth = Bound(value, 0, maxGrowth);
+        reportGrowth = growth;
     }
 
     public void SetQuality(int value)
     {
-		quality = Bound(value, 0, maxQuality);
+        quality = Bound(value, 0, maxQuality);
+        reportQuality = quality;
     }
 
-	private int Bound(int value, int min, int max) {
-		int v = value;
-		if (v < min)
+    private int Bound(int value, int min, int max)
+    {
+        int v = value;
+        if (v < min)
         {
             v = min;
         }
@@ -57,6 +99,6 @@ public class CropInfo
         {
             v = max;
         }
-		return v;
-	}
+        return v;
+    }
 }

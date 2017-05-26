@@ -35,10 +35,12 @@ public class SelectionManager : View, ISelectionManager
         if (Selected == null)
         {
             Selected = e.Selected;
+            EventManager.Raise(new SelectionChangeEvent());
         }
         else if (Selected != e.Selected)
         {
             Selected = e.Selected;
+            EventManager.Raise(new SelectionChangeEvent());
         }
     }
 
@@ -71,6 +73,7 @@ public class SelectionManager : View, ISelectionManager
         if (!EventSystem.current.IsPointerOverGameObject())
         {
             Selected = null;
+            EventManager.Raise(new SelectionChangeEvent());
         }
     }
 

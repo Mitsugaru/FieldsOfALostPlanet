@@ -20,9 +20,12 @@ public class HexagonBoard : MonoBehaviour
         int posY = 50;
         int count = 0;
         int row = 1;
+        int countId = 0;
         foreach (Sprite sprite in sprites)
         {
             GameObject tile = GameObject.Instantiate(imagePrefab);
+            TileInfo info = tile.AddComponent<TileInfo>();
+            info.id = countId++;
             DebugScript dScript = tile.GetComponent<DebugScript>();
             RootContext.Inject(dScript);
             tile.name = sprite.name;
@@ -35,7 +38,7 @@ public class HexagonBoard : MonoBehaviour
                 image.enabled = true;
             }
             posX += 100;
-            if (count == 19)
+            if (count == 11)
             {
                 count = 0;
                 row++;

@@ -36,7 +36,7 @@ public class UIPanelManager : View, IUIPanelManager
     // Update is called once per frame
     void Update()
     {
-        if(SelectionManager.Selected != null)
+        if (SelectionManager.Selected != null)
         {
             //Set terrain panel info here
             TerrainPanel.SetActive(true);
@@ -49,6 +49,9 @@ public class UIPanelManager : View, IUIPanelManager
 
     private void HandleTickElapsed(TickElapsedEvent e)
     {
-        //slider.value = CropManager.GetCropInfo(null).Growth;
+        if (slider != null)
+        {
+            slider.value = CropManager.GetCropInfo(null).Growth;
+        }
     }
 }
