@@ -8,41 +8,61 @@ public class HexagonBoard : MonoBehaviour
     [Inject]
     public IRootContext RootContext { get; set; }
 
+    [Inject]
+    public ITileManager TileManager { get; set; }
+
+    [Inject]
+    public IEventManager EventManager { get; set; }
+
+    [Inject]
+    public ITerrainSpriteManager TerrainSpriteManager { get; set; }
+
     public GameObject imagePrefab;
 
-    private Sprite[] sprites;
+    public int startingCount = 30;
 
     // Use this for initialization
     void Start()
     {
-        sprites = Resources.LoadAll<Sprite>("hexagonTerrain_sheet");
+        EventManager.AddListener<ManagerStartedEvent>(HandleManagerStarted);
+        EventManager.AddListener<TerraformSelectedTileEvent>(HandleTerraformSelectedTile);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+
+    private void HandleManagerStarted(ManagerStartedEvent e)
+    {
         int posX = 50;
         int posY = 50;
         int count = 0;
         int row = 1;
-        int countId = 0;
-        foreach (Sprite sprite in sprites)
+        for (int i = 0; i < startingCount; i++)
         {
             GameObject tile = GameObject.Instantiate(imagePrefab);
-            TileInfo info = tile.AddComponent<TileInfo>();
-            info.id = countId++;
-            DebugScript dScript = tile.GetComponent<DebugScript>();
+            TileInfo info = TileManager.generateTile(tile);
+            SelectInteractionScript dScript = tile.GetComponent<SelectInteractionScript>();
             RootContext.Inject(dScript);
-            tile.name = sprite.name;
+            tile.name = "Tile-" + info.id;
             tile.transform.SetParent(transform);
             tile.transform.position = new Vector3(posX, posY, 0);
-            Image image =tile.GetComponent<Image>();
-            if(image != null)
+            Image image = tile.GetComponent<Image>();
+            Sprite sprite = TerrainSpriteManager.retrieveSprite(info.type);
+            if (image != null && sprite != null)
             {
                 image.sprite = sprite;
                 image.enabled = true;
             }
+
             posX += 100;
             if (count == 11)
             {
                 count = 0;
                 row++;
-                if(row % 2 == 0)
+                if (row % 2 == 0)
                 {
                     posX = 100;
                 }
@@ -59,9 +79,19 @@ public class HexagonBoard : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void HandleTerraformSelectedTile(TerraformSelectedTileEvent e)
     {
-
+        // Update image to what we're going to terraform to
+        TileInfo info = TileManager.getTileInfo(e.TileId);
+        if(info != null)
+        {
+            Image image = info.gameObject.GetComponent<Image>();
+            Sprite sprite = TerrainSpriteManager.retrieveSprite(e.Terrain);
+            if (image != null && sprite != null)
+            {
+                image.sprite = sprite;
+                image.enabled = true;
+            }
+        }
     }
 }

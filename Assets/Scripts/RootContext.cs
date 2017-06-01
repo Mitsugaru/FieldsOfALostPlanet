@@ -30,9 +30,9 @@ public class RootContext : MVCSContext, IRootContext
         EventManager eventManager = managers.GetComponent<EventManager>();
         injectionBinder.Bind<IEventManager>().ToValue(eventManager).ToSingleton().CrossContext();
 
-        //The following are dependent on the Event Manager
-        TerrainSpriteManager terrainSpriteManager = resources.GetComponent<TerrainSpriteManager>();
-        injectionBinder.Bind<ITerrainSpriteManager>().ToValue(terrainSpriteManager).ToSingleton();
+        // Dependent on event manager
+        SelectionManager selectionManager = managers.GetComponent<SelectionManager>();
+        injectionBinder.Bind<ISelectionManager>().ToValue(selectionManager).ToSingleton();
 
         TickTockManager tickTockManager = managers.GetComponent<TickTockManager>();
         injectionBinder.Bind<ITickTockManager>().ToValue(tickTockManager).ToSingleton().CrossContext();
@@ -40,22 +40,28 @@ public class RootContext : MVCSContext, IRootContext
         CropManager cropManager = managers.GetComponent<CropManager>();
         injectionBinder.Bind<ICropManager>().ToValue(cropManager).ToSingleton().CrossContext();
 
-        SelectionManager selectionManager = managers.GetComponent<SelectionManager>();
-        injectionBinder.Bind<ISelectionManager>().ToValue(selectionManager).ToSingleton();
-
+        // Depends on selection manager 
         TileManager tileManager = managers.GetComponent<TileManager>();
         injectionBinder.Bind<ITileManager>().ToValue(tileManager).ToSingleton();
 
+        //The following are dependent on the Event Manager
+        TerrainSpriteManager terrainSpriteManager = resources.GetComponent<TerrainSpriteManager>();
+        injectionBinder.Bind<ITerrainSpriteManager>().ToValue(terrainSpriteManager).ToSingleton();
+        
         //The following are dependent on the Tile Manager and Crop Manager
         UIPanelManager panelManager = UI.GetComponent<UIPanelManager>();
         injectionBinder.Bind<IUIPanelManager>().ToValue(panelManager).ToSingleton();
 
+        //UI scripts that require references
+        TerrainPanelScript terrainPanelScript = UI.GetComponentInChildren<TerrainPanelScript>();
+        injectionBinder.injector.Inject(terrainPanelScript);
+
+        TileInfoPanelScript tileInfoPanelScript = UI.GetComponentInChildren<TileInfoPanelScript>();
+        injectionBinder.injector.Inject(tileInfoPanelScript);
+
         // Manual injection - remove
         HexagonBoard hexBoard = UI.GetComponentInChildren<HexagonBoard>();
         injectionBinder.injector.Inject(hexBoard);
-
-        TerrainPanelScript terrainPanelScript = UI.GetComponentInChildren<TerrainPanelScript>();
-        injectionBinder.injector.Inject(terrainPanelScript);
     }
 
     public void Inject(Object o)

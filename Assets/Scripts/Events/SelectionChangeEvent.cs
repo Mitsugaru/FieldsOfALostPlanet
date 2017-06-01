@@ -3,9 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class SelectionChangeEvent : GameEvent {
-
-    public SelectionChangeEvent()
+    
+    public GameObject Selection
     {
+        get; protected set;
+    }
 
+    public SelectionChangeEvent(GameObject selection)
+    {
+        this.Selection = selection;
     }
 }

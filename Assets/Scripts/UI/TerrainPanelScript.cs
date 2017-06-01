@@ -19,6 +19,8 @@ public class TerrainPanelScript : MonoBehaviour
 
     public GameObject cropInfoButton;
 
+    public GameObject tileInfoPanel;
+
     public GameObject farmInfoView;
 
     public GameObject terraformView;
@@ -27,7 +29,7 @@ public class TerrainPanelScript : MonoBehaviour
 
     public GameObject tileButtonPrefab;
 
-    public string[] tileIds;
+    public TerrainType[] terraformTypes;
 
     private enum ViewMode
     {
@@ -99,13 +101,12 @@ public class TerrainPanelScript : MonoBehaviour
     {
         if (e.Manager.Equals(TerrainSpriteManager))
         {
-            foreach (string tileId in tileIds)
+            foreach (TerrainType type in terraformTypes)
             {
                 GameObject tileButton = GameObject.Instantiate(tileButtonPrefab);
-                TerrainTilePanelScript tileScript = tileButton.GetComponent<TerrainTilePanelScript>();
-                tileScript.Sprite = TerrainSpriteManager.retrieveSprite(tileId);
-                tileScript.setTerrainName(tileId);
-                RootContext.Inject(tileScript);
+                TerraformTilePanelScript terraformScript = tileButton.GetComponent<TerraformTilePanelScript>();
+                RootContext.Inject(terraformScript);
+                terraformScript.setTerrainType(type);
                 tileButton.transform.SetParent(terraformContent);
             }
             terraformView.SetActive(false);

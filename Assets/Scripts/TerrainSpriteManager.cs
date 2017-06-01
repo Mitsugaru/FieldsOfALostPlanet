@@ -12,6 +12,9 @@ public class TerrainSpriteManager : MonoBehaviour, ITerrainSpriteManager
     public IEventManager EventManager { get; set; }
 
     public Sprite defaultSprite;
+
+    public SpriteKey[] spriteKey;
+
     /// <summary>
     /// Dictionary of sprites
     /// </summary>
@@ -28,12 +31,15 @@ public class TerrainSpriteManager : MonoBehaviour, ITerrainSpriteManager
     // Use this for initialization
     void Start()
     {
-        Sprite[] terrainSprites = Resources.LoadAll<Sprite>("hexagonTerrain_sheet");
-        foreach (Sprite sprite in terrainSprites)
+        foreach(SpriteKey key in spriteKey)
         {
-            Debug.Log("Registered " + sprite.name);
-            sprites.Add(sprite.name, sprite);
+            sprites.Add(key.type.ToString(), key.image);
         }
+        //Sprite[] terrainSprites = Resources.LoadAll<Sprite>("hexagonTerrain_sheet");
+        //foreach (Sprite sprite in terrainSprites)
+        //{
+        //    sprites.Add(sprite.name, sprite);
+        //}
         EventManager.Raise(new ManagerStartedEvent(this));
     }
 
@@ -43,14 +49,12 @@ public class TerrainSpriteManager : MonoBehaviour, ITerrainSpriteManager
 
     }
 
-    public Sprite retrieveSprite(string name)
+    public Sprite retrieveSprite(TerrainType type)
     {
-        Debug.Log("Requested " + name);
-
         Sprite sprite;
-        if (!sprites.TryGetValue(name, out sprite))
+        if (!sprites.TryGetValue(type.ToString(), out sprite))
         {
-            Debug.Log("not found, returning default");
+            Debug.LogError("sprite '" + type.ToString() + "' not found, returning default");
             sprite = defaultSprite;
         }
         return sprite;

@@ -6,6 +6,8 @@ public class TileInfo : MonoBehaviour {
 
     public int id;
 
+    public TerrainType type;
+
     public TileAttributes attributes;
 
     public FarmlandInfo farmland;
