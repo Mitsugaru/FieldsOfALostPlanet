@@ -2141,6 +2141,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imagePrefab: {fileID: 1000010503112032, guid: 5f535a3e2223d814fb0b3576be61f6d3,
     type: 2}
+  startingCount: 108
+  offsetX: -50
+  offsetY: -50
 --- !u!1 &1009879711
 GameObject:
   m_ObjectHideFlags: 0

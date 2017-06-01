@@ -21,6 +21,10 @@ public class HexagonBoard : MonoBehaviour
 
     public int startingCount = 30;
 
+    public int offsetX = 0;
+
+    public int offsetY = 0;
+
     // Use this for initialization
     void Start()
     {
@@ -48,7 +52,7 @@ public class HexagonBoard : MonoBehaviour
             RootContext.Inject(dScript);
             tile.name = "Tile-" + info.id;
             tile.transform.SetParent(transform);
-            tile.transform.position = new Vector3(posX, posY, 0);
+            tile.transform.position = new Vector3(posX + offsetX, posY + offsetY, 0);
             Image image = tile.GetComponent<Image>();
             Sprite sprite = TerrainSpriteManager.retrieveSprite(info.type);
             if (image != null && sprite != null)
