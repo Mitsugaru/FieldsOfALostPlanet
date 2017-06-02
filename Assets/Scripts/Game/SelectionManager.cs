@@ -63,7 +63,7 @@ public class SelectionManager : View, ISelectionManager
             // ------------------------------------------------
             if (touch.phase == TouchPhase.Ended && touch.tapCount == 1)
             {
-                DetectDeselect(touch.position);
+                //DetectDeselect(touch.position);
             }
         }
     }

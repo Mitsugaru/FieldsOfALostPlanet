@@ -25,6 +25,8 @@ public class HexagonBoard : MonoBehaviour
 
     public int offsetY = 0;
 
+    public float scale = 1.0f;
+
     // Use this for initialization
     void Start()
     {
@@ -40,8 +42,8 @@ public class HexagonBoard : MonoBehaviour
 
     private void HandleManagerStarted(ManagerStartedEvent e)
     {
-        int posX = 50;
-        int posY = 50;
+        float posX = 50.0f * scale;
+        float posY = 50.0f * scale;
         int count = 0;
         int row = 1;
         for (int i = 0; i < startingCount; i++)
@@ -53,6 +55,7 @@ public class HexagonBoard : MonoBehaviour
             tile.name = "Tile-" + info.id;
             tile.transform.SetParent(transform);
             tile.transform.position = new Vector3(posX + offsetX, posY + offsetY, 0);
+            tile.transform.localScale *= scale;
             Image image = tile.GetComponent<Image>();
             Sprite sprite = TerrainSpriteManager.retrieveSprite(info.type);
             if (image != null && sprite != null)
@@ -61,20 +64,20 @@ public class HexagonBoard : MonoBehaviour
                 image.enabled = true;
             }
 
-            posX += 100;
-            if (count == 11)
+            posX += 100.0f * scale;
+            if (count == 12)
             {
                 count = 0;
                 row++;
                 if (row % 2 == 0)
                 {
-                    posX = 100;
+                    posX = 100.0f * scale;
                 }
                 else
                 {
-                    posX = 50;
+                    posX = 50.0f * scale;
                 }
-                posY += 74;
+                posY += 74.0f * scale;
             }
             else
             {

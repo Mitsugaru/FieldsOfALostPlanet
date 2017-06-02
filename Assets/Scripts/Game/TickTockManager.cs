@@ -16,6 +16,8 @@ public class TickTockManager : View, ITickTockManager
         }
     }
 
+    public bool pauseSun = false;
+
     public int secondsPerTick = 3;
 
     public int ticksPerDay = 60;
@@ -51,15 +53,16 @@ public class TickTockManager : View, ITickTockManager
             float current = Time.time;
             float deltaTime = current - pauseTime - timeSinceLastTick;
             //Handle sun day / night
-            float lerpDiff = Mathf.Min(deltaTime / secondsPerTick, 1.0f);
-            Quaternion sunQuat = Quaternion.Euler(TargetSunRotation());
-            sun.transform.rotation = Quaternion.Lerp(previousSunTickRotation, sunQuat, lerpDiff);
+            if (!pauseSun)
+            {
+                rotateSun(deltaTime);
+            }
 
+            // Handle ticks
             if (deltaTime >= secondsPerTick)
             {
                 tickCount++;
                 timeSinceLastTick = current;
-                previousSunTickRotation = sunQuat;
                 pauseTime = 0;
                 //Calculate day passage
                 ticksThisDay++;
@@ -72,6 +75,18 @@ public class TickTockManager : View, ITickTockManager
 
                 EventManager.Raise(new TickElapsedEvent());
             }
+        }
+    }
+
+    private void rotateSun(float deltaTime)
+    {
+        //Handle sun day / night
+        float lerpDiff = Mathf.Min(deltaTime / secondsPerTick, 1.0f);
+        Quaternion sunQuat = Quaternion.Euler(TargetSunRotation());
+        sun.transform.rotation = Quaternion.Lerp(previousSunTickRotation, sunQuat, lerpDiff);
+        if (deltaTime >= secondsPerTick)
+        {
+            previousSunTickRotation = sunQuat;
         }
     }
 
